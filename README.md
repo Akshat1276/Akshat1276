@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=34F745&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%7C+Django+Enthusiast;Flutter+%7C+Mobile+App+Dev;Always+Learning+%26+Exploring" alt="Typing SVG" /></h2>
+<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=34F745&center=true&vCenter=true&width=435&lines=Competitive-Programmer;Web+Developer;Always+Learning+%26+Exploring" alt="Typing SVG" /></h2>
 <!--
 ## 👨‍💻 Portfolio
 - [Checkout my portfolio](https://sanat-jha.me)
