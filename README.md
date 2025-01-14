@@ -13,7 +13,7 @@
 ---
 -->
 ## 🎓 About Me
-I'm a B.Tech student at [IIT Roorkee](https://www.iitr.ac.in), with a deep passion for programming and technology. My expertise lies in **C++**. I'm also expanding my knowledge in web development using **HTML**, **CSS**, and learning **GO**.
+I'm a B.Tech student at [IIT Roorkee](https://www.iitr.ac.in), with a deep passion for programming and technology. My expertise lies in **C++**, <b>HTML</b>, <b>CSS</b>, <b>JS</b>. I'm also expanding my knowledge in **GOlang**.
 
 ---
 
@@ -24,15 +24,15 @@ I'm a B.Tech student at [IIT Roorkee](https://www.iitr.ac.in), with a deep passi
 ---
 
 ## 🌱 Currently Learning
-- GO
+- GOlang
 - Full-stack development concepts
-- Forensics in CTF
+- CTF (Capture the Flag)
 
 ---
 
 ## 📫 Let's Connect!
 Feel free to reach out to me via:
-- [LinkedIn]([[https://www.linkedin.com/in/sanatjha4/](https://www.linkedin.com/in/akshat-yadav-383307310/)])
+- [LinkedIn]([https://www.linkedin.com/in/sanatjha4/](https://www.linkedin.com/in/akshat-yadav-383307310/)])
 - Email: akshatyadav1207@gmail.com
 
 ---
