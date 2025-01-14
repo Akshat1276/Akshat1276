@@ -19,7 +19,7 @@ I'm a B.Tech student at - <a href="https://www.iitr.ac.in">IIT ROORKEE</a>, with
 
 ## 💻 Skills
 - **Languages:** Python, C++, Go Lang
-- **Technologies:** Git, Github Desktop
+- **Technologies:** Git, Github Desktop, Visual Studio Code, Postman
 
 ---
 
