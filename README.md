@@ -13,13 +13,13 @@
 ---
 -->
 ## 🎓 About Me <br>
-I'm a B.Tech student at [IIT Roorkee](https://www.iitr.ac.in), with a deep passion for programming and technology. My expertise lies in **C++**, <b>HTML</b>, <b>CSS</b>, <b>JS</b>. I'm also expanding my knowledge in **GOlang**.
+I'm a B.Tech student at - <a href="https://www.iitr.ac.in">IIT ROORKEE</a>, with a deep passion for programming and technology. My expertise lies in <b>C++</b>. I'm also expanding my knowledge in <b>Go Lang</b>.
 
 ---
 
 ## 💻 Skills
-- **Languages:** Python, C++, HTML, CSS
-- **Technologies:** Web Development, Backend Development
+- **Languages:** Python, C++, Go Lang
+- **Technologies:** Git, Github Desktop
 
 ---
 
@@ -33,7 +33,7 @@ I'm a B.Tech student at [IIT Roorkee](https://www.iitr.ac.in), with a deep passi
 ## 📫 Let's Connect!
 Feel free to reach out to me via:
 - <a href="https://www.linkedin.com/in/sanatjha4/](https://www.linkedin.com/in/akshat-yadav-383307310/">LinkedIn</a>
-- Email: akshatyadav1207@gmail.com
+- <a href="mailto:akshatyadav1207@gmail.com">E-Mail</a>
 
 ---
 
